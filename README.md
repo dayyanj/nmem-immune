@@ -1,8 +1,10 @@
 # nmem-immune
 
+> ⚠️ **Experimental — under active development.** This project is mid-build: APIs, schemas, and behaviour may change without notice, and it is not yet recommended for production use.
+
 **Memory Immune System — poisoning protection for [nmem](https://github.com/dayyanj/nmem).**
 
-**Status: 0.2 — early, pre-1.0.**
+**Status: 0.2 — experimental, pre-1.0.**
 
 An agent that learns from experience can also learn from *bad* experience — a poisoned
 fact, a confident-but-wrong lesson, a slow drift away from ground truth. nmem-immune is a

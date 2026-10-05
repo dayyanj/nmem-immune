@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nmem-immune"
-version = "0.1.0"
+version = "0.2.0"
 description = "Memory Immune System — poisoning protection for nmem"
 readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.11"
 authors = [
-    { name = "Dayyan Janjua" },
+    { name = "Dayyan James" },
 ]
 
 dependencies = [
